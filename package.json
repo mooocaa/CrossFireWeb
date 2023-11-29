@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "mssql": "^9.1.2",
+    "sqlstring": "^2.3.3",
+    "tedious": "^16.4.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "cf-register",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "ShrBox",
+  "license": "MIT",
+  "description": ""
+}
